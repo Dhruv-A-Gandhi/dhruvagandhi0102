@@ -174,7 +174,7 @@ Cloud infrastructure automation and deployment pipelines
 ## 🤝 Let's Connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/dhruvagandhi0102](https://www.linkedin.com/in/dhruvagandhi0102)
-- 📧 **Email:** [your-email@example.com]
+- 📧 **Email:** dhruvgandhi0102@gmail.com
 - 🌐 **Portfolio Website:** [link-to-your-portfolio]
 - 🐙 **GitHub:** [github.com/dhruvagandhi0102](https://github.com/dhruvagandhi0102)
 
